@@ -27,9 +27,11 @@ GUAJARDO SOTO ABDIEL ISAIAS
 
 ## Instalación
 1. Clona este repositorio en tu máquina local:
+   ```bash
    git clone https://github.com/Misaelprg/https://github.com/Misaelprg/BACK-END-PIA.git
 
-2. Ingresa a la carpeta del proyecto y ejecuta
+3. Ingresa a la carpeta del proyecto y ejecuta
+   ```bash
   mvn clean install
 
-3. Listo!
+5. Listo!
