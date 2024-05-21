@@ -32,6 +32,6 @@ GUAJARDO SOTO ABDIEL ISAIAS
 
 3. Ingresa a la carpeta del proyecto y ejecuta
    ```bash
-  mvn clean install
+   mvn clean install
 
 5. Listo!
